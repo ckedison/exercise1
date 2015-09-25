@@ -1,3 +1,9 @@
+/*
+  Doraemon
+  author: Edison Liu
+  update: 2015/09/25
+*/
+
 size(300,300);
 background(255);
 // outgray
@@ -26,12 +32,14 @@ ellipse(125,100,10,25);
 ellipse(165,100,10,25);
 
 //nose
+
 fill(#ff0000);
 ellipse(145,135,40,40);
 
 //mouth
 fill(255);
 arc(145, 155, 150,150, 0, PI);
+
 
 line(25,130,110,175);
 line(25,180,110,180);
@@ -43,6 +51,6 @@ line(250,230,190,185);
 
 line(145,155,145,230);
 
-// nose 2 
+// nose 2
 fill(255);
 ellipse(143,130,10,10);
