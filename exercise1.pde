@@ -1,9 +1,3 @@
-/*
-  Doraemon
-  author: Edison Liu
-  update: 2015/09/25
-*/
-
 size(300,300);
 background(255);
 // outgray
