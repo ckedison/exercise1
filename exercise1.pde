@@ -8,6 +8,7 @@ size(300,300);
 background(255);
 // outgray
 stroke(255);
+strokWeight(3);
 
 fill(150);
 ellipse(150,150,270,270);
